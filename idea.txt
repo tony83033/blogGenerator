@@ -1,0 +1,15 @@
+Overview:
+This platform automates the creation of blog posts for a news website based on YouTube videos. The goal is to streamline the process of creating news articles and opinion pieces by using AI to transcribe videos, generate drafts, 
+
+How It Works:
+1. **Video Upload Trigger**: 
+   - 
+   - manually provide a YouTube URL for any video you want to convert into a blog post.
+
+2. **AI-Generated Content**: 
+   - AI transcribes the video into text.
+   - The system then summarizes the main points and creates a news article or opinion piece.
+   - AI also generates the title and relevant tags for SEO.
+
+3. **Manual Draft Control**: 
+   - The system saves the blog post as a draft for you to review.

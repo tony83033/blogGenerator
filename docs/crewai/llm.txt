@@ -1,0 +1,16 @@
+CrewAI supports using Ollama for running open-source models locally:
+
+Install Ollama: ollama.ai
+Run a model: ollama run llama2
+Configure agent:
+Code
+
+from crewai import LLM
+
+agent = Agent(
+    llm=LLM(
+        model="ollama/llama3.1",
+        base_url="http://localhost:11434"
+    ),
+    ...
+)
